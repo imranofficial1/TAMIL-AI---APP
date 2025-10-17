@@ -1,0 +1,5 @@
+{
+  "name": "PDF-Alytics - AI OLD TAMIL SCRIPT",
+  "description": "An interactive web application that allows users to upload PDF files, extracts the text content, and provides a beautiful visualization of the letter frequency within the document.",
+  "requestFramePermissions": []
+}
